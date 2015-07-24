@@ -32,7 +32,7 @@ def about(args):
     about = """
         Bot Simkuring v .1 alpha by Simkuring Laboratory
     """
-    return "APAAN SIH!!! ga ada yang ganteng disini mah, liat aja adminnya. IDIH..!!!!"
+    return about
 
 # bot command list + function
 commandLists = {
